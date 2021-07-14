@@ -38,9 +38,7 @@ header {
     background:  linear-gradient(207.8deg, #51c4d3 16.69%, #126e82 100%);
 }
 header img {
-    width: 150px;
-    height: 150px;
-    margin-top: 60px;
+    margin-top: 40px;
     align-self: center;
 }
 .header--title-container {

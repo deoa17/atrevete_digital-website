@@ -1,0 +1,32 @@
+{
+  "name": "atrevete_digital",
+  "version": "1.0.0",
+  "description": "Agencia digital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deoa17/atrevete_digital-website.git"
+  },
+  "keywords": [
+    "agencia",
+    "digital",
+    "marketing",
+    "digital",
+    "website",
+    "pagina",
+    "web",
+    "google",
+    "ads",
+    "facebook",
+    "ads"
+  ],
+  "author": "daniel oyama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deoa17/atrevete_digital-website/issues"
+  },
+  "homepage": "https://github.com/deoa17/atrevete_digital-website#readme"
+}

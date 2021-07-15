@@ -46,7 +46,7 @@ header img {
     min-width: 288px;
     max-width: 900px;
     height: 218px;
-    margin-top: 40px;
+    margin-top: 20px;
     align-self: center;
 }
 .header--title-container h1 {
@@ -56,7 +56,7 @@ header img {
     color: var(--just-white);
 }
 .header--title-container p {
-    margin-top: 25px;
+    margin-top: 15px;
     font-size: 1.4rem;
     font-weight: 500;
     line-height: 1.8rem;
@@ -101,7 +101,6 @@ main {
 .main-exchange-container {
     width: 100%;
     height: auto;
-    padding-top: 80px;
     padding-bottom: 30px;
     text-align: center;
 }
@@ -111,14 +110,14 @@ main {
     max-width: 900px;
     margin: 0 auto;
 }
-.main-exchange-container .backgroundImg {
-    width: 200px;
-    height: 200px;
+.backgroundImg {
+    width: 100%;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url("./assets/img/Bitcoin.svg");
-    background-size: center;
-    background-repeat: no-repeat;
+}
+.backgroundImg__video {
+    width: 100%;
+    height: auto;
 }
 .main-exchange-container h2 {
     margin-bottom: 30px;

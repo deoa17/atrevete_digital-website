@@ -1,3 +1,6 @@
+.backgroundImg {
+    width: 100vh;
+}
 .plans-container--slider{
     justify-content: center;
 }

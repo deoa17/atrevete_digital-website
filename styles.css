@@ -112,7 +112,7 @@ main {
     margin: 0 auto;
 }
 .backgroundImg {
-    width: 100vh;
+    width: 100%;
     margin: 0 auto;
     margin-bottom: 50px;
 }

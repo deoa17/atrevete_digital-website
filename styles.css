@@ -33,7 +33,7 @@ header {
     justify-content: center;
     width: 100%;
     min-width: 320px;
-    height: 334px;
+    height: 240px;
     text-align: center;
     background:  linear-gradient(207.8deg, #51c4d3 16.69%, #126e82 100%);
 }
@@ -53,7 +53,8 @@ header img {
     font-size: 2.4rem;
     font-weight: bold;
     line-height: 2.6rem;
-    color: var(--just-white);
+    color: #FFFFFF;
+    text-shadow: 0 0 8px #2cd0f0, 0 0 2px #2cd0f0, 0 0 10px #2cd0f0, 0 0 6px #2cd0f0, 0 0 20px #2cd0f0, 0 0 20px #2cd0f0, 0 0 1px #2cd0f0, 0 0 12px #2cd0f0;
 }
 .header--title-container p {
     margin-top: 15px;
@@ -69,7 +70,7 @@ header img {
     margin-right: auto;
     margin-left: auto; */
     /* top: calc(100% - 24px); */
-    top: 270px;
+    top: 180px;
     left: calc(50% - 118px);
     display: block;
     margin-top: 35px;
@@ -137,7 +138,7 @@ main {
     width: 70%;
     min-width: 235px;
     max-width: 500px;
-    height: 360px;
+    height: 310px;
     margin: 0 auto;
     font-family: "Inter", sans-serif;
 }
@@ -148,6 +149,13 @@ main {
     line-height: 2.3rem;
     color: var(--dark-color);
 }
+.estrategias__lista {
+    font-size: 1.6rem;
+    font-weight: bold;
+    line-height: 30px;
+    color: var(--black);
+}
+
 .currency-table--container {
     width: 90%;
     min-width: 230px;
@@ -210,6 +218,13 @@ main {
     font-weight: 300;
     color: var(--warm-black);
 }
+.estrategias .estrategias__titulo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    line-height: 2.3rem;
+    color: var(--dark-color)
+}
+
 .main-product-detail {
     position: relative;
     width: 100%;
@@ -286,18 +301,39 @@ main {
     width: 100%;
     min-width: 320px;
     height: 320px;
-    background-image: url("./assets/img/bitcoinbaby2x.jpg");
+    background-image: url("./assets/img/camara_mesa.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.bitcoin-img-container--2 {
+    width: 100%;
+    min-width: 320px;
+    height: 320px;
+    background-image: url("./assets/img/google_ads.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.bitcoin-img-container--3 {
+    width: 100%;
+    min-width: 320px;
+    height: 320px;
+    background-image: url("./assets/img/facebook_ads.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
 }
 .bitcoin-img-container h2 {
-    padding-top: 60px;
+    padding-top: 80px;
     font-size: 2.4rem;
     font-weight: bold;
     line-height: 2.6rem;
-    color: var(--just-white);
+    color: #FFFFFF;
+    text-shadow: 0 0 8px #2cd0f0, 0 0 2px #2cd0f0, 0 0 10px #2cd0f0, 0 0 6px #2cd0f0, 0 0 20px #2cd0f0, 0 0 20px #2cd0f0, 0 0 1px #2cd0f0, 0 0 12px #2cd0f0;
 }
 .main-plans-container {
     width: 100%;
